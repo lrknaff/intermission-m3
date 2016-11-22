@@ -1,7 +1,7 @@
 #Intermission Work - Mod3
 >Doing the things for Mod3!
 
-###NodeSchool.io courses:
+##NodeSchool.io courses:
 
 ####[Promise It Won't Hurt](https://github.com/stevekane/promise-it-wont-hurt)
 Promises offer a very powerful abstraction for obtaining values asynchronously.
